@@ -1,6 +1,6 @@
-# Meu Projeto
+# Projeto É Hoje
 
-Este projeto é uma landing page, desenvolvido nas aulas de front-end.
+O É hoje, é uma estrutra MVC de uma página web, voltado para captação de doadores de sangue, criada durante o curso de Desevolvimento Full-Stack, onde a aplicação foi apresentada ao final do curso, como projeto integrador. 
 
 ![projeto](https://user-images.githubusercontent.com/131220482/235494139-1d4675a9-cca5-4a3a-a926-a2f857d1f434.png)
 
@@ -15,26 +15,19 @@ Este projeto é uma landing page, desenvolvido nas aulas de front-end.
 
 ## Descrição do Projeto
 
-### Como surgiu o Meu Projeto:
+### Como surgiu o É Hoje:
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-when an unknown printer took a galley of type and scrambled it to make a type 
-specimen book. It has survived not only five centuries, but also the leap into 
-electronic typesetting, remaining essentially unchanged. It was popularised in 
-the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
-and more recently with desktop publishing software like Aldus PageMaker 
-including versions of Lorem Ipsum.
+O projeto É Hoje, surgiu da necessidade de ajudar a fortalecer a cultura de doação de sangue no estado de Pernambuco. Fazendo uso de incentivos culturais, propocionando uma recompensar em eventos culturais e empresas parceiras, que por meio de ponto acumulados após a doação de sangue, esse pontos são convertidos em inumeros benefícios proporcionado por nossas empresas parceiras. 
 
 ## Status do Projeto 
 
-``Em construção``
+``Atualmente em consturação``
 
 ## Funcionalidades e Demonstração da Aplicação
 
 ![SPA](https://user-images.githubusercontent.com/131220482/235494117-fd45205f-96c7-493f-870c-5985272adcaf.gif)
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
+- `Cadastro de doadores`: Cadastros 
 - `Funcionalidade 2`: descrição da funcionalidade 2
 - `Funcionalidade 3`: descrição da funcionalidade 3
 
