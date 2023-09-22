@@ -27,9 +27,9 @@ O projeto É Hoje, surgiu da necessidade de ajudar a fortalecer a cultura de doa
 
 ![SPA](https://user-images.githubusercontent.com/131220482/235494117-fd45205f-96c7-493f-870c-5985272adcaf.gif)
 
-- `Cadastro de doadores`: Cadastros 
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Cadastros de novos doadores `: Cadastros 
+- `Pesquisa de empresas parceiras`: descrição da funcionalidade 2
+- `Pesquisa de locais de doação`: descrição da funcionalidade 3
 
 
 ## Acesso ao Projeto
