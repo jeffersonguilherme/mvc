@@ -25,7 +25,7 @@ O projeto É Hoje, surgiu da necessidade de ajudar a fortalecer a cultura de doa
 
 ## Funcionalidades e Demonstração da Aplicação
 
-![SPA](https://user-images.githubusercontent.com/131220482/235494117-fd45205f-96c7-493f-870c-5985272adcaf.gif)
+![SPA]([https://user-images.githubusercontent.com/131220482/235494117-fd45205f-96c7-493f-870c-5985272adcaf.gif](https://github.com/jeffersonguilherme/mvc/blob/main/WhatsApp%20Image%202023-09-22%20at%2020.06.17.jpeg?raw=true))
 
 - `Cadastros de novos doadores `: Cadastros 
 - `Pesquisa de empresas parceiras`: descrição da funcionalidade 2
